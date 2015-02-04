@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1457902382">
+    <data-source source="LOCAL" name="Django default" uuid="9471569a-18ae-4825-a210-ee913b9ecd4f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\BL\Desktop\lessons\Django\groomer\groomer_v2\groomer</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
